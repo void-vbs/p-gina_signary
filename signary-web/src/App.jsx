@@ -4,6 +4,7 @@ import Hero from './componentes/HeroTemp';
 import LogosTicker from './componentes/LogosTickerTemp';
 import Features from './componentes/FeaturesTemp';
 import Pricing from './componentes/PricingTemp';
+import Community from './componentes/CommunityTemp';
 import './App.css';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Features />
       <Pricing />
       <LogosTicker />
+      <Community />
     </div>
   );
 }
